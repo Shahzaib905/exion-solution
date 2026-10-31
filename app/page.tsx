@@ -95,8 +95,8 @@ export default function HomePage() {
                 transition={{ delay: 1, duration: 0.8 }}
                 className="text-xl text-neutral-300 max-w-3xl mx-auto text-pretty leading-relaxed"
               >
-                We craft innovative web applications, mobile solutions, and cloud platforms that drive business growth
-                and deliver exceptional user experiences.
+                We partner with organizations to design, build, and scale secure web, mobile, and cloud solutions —
+                combining proven engineering practices with a deep understanding of your business goals.
               </motion.p>
             </motion.div>
 
