@@ -16,7 +16,7 @@ import Image from "next/image"
 import { motion } from "framer-motion"
 
 export default function HomePage() {
-  const words = "Modern Software Solutions for Growing Businesses"
+  const words = "Engineering Reliable Software That Drives Business Growth"
   const [api, setApi] = React.useState<CarouselApi>()
   const [current, setCurrent] = React.useState(0)
   const [count, setCount] = React.useState(0)
